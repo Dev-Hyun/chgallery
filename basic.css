@@ -1,0 +1,54 @@
+HTML {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+BODY {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+BODY {
+	TEXT-ALIGN: center; BACKGROUND-COLOR: #eee; FONT-FAMILY: "Lucida Grande", "Lucida Sans Unicode", Verdana, Helvetica, Arial, sans-serif; COLOR: #444; FONT-SIZE: 75%
+}
+A {
+	COLOR: #27d; TEXT-DECORATION: none
+}
+A:focus {
+	TEXT-DECORATION: underline
+}
+A:hover {
+	TEXT-DECORATION: underline
+}
+A:active {
+	TEXT-DECORATION: underline
+}
+P {
+	LINE-HEIGHT: 1.8em
+}
+LI {
+	LINE-HEIGHT: 1.8em
+}
+H1 {
+	MARGIN: 0px 0px 10px; FONT-FAMILY: "Trebuchet MS", Verdana, sans-serif; LETTER-SPACING: -1px
+}
+H2 {
+	MARGIN: 0px 0px 10px; FONT-FAMILY: "Trebuchet MS", Verdana, sans-serif; LETTER-SPACING: -1px
+}
+H1 {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; COLOR: #333; FONT-SIZE: 3em; PADDING-TOP: 0px
+}
+H2 {
+	FONT-SIZE: 2em; PADDING-TOP: 10px
+}
+PRE {
+	LINE-HEIGHT: 1.2em; OVERFLOW-X: auto; FONT-SIZE: 1.2em
+}
+DIV#page {
+	BORDER-BOTTOM: #ddd 1px solid; TEXT-ALIGN: left; BORDER-LEFT: #ddd 1px solid; BACKGROUND-COLOR: #fff; MARGIN: 0px auto; WIDTH: 900px; BORDER-TOP: #ddd; BORDER-RIGHT: #ddd 1px solid
+}
+DIV#container {
+	PADDING-BOTTOM: 20px; PADDING-LEFT: 20px; PADDING-RIGHT: 20px; PADDING-TOP: 20px
+}
+DIV#ads {
+	PADDING-BOTTOM: 12px; PADDING-LEFT: 66px; PADDING-RIGHT: 0px; CLEAR: both; PADDING-TOP: 12px
+}
+DIV#footer {
+	TEXT-ALIGN: center; PADDING-BOTTOM: 40px; MARGIN: 0px auto; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; COLOR: #777; CLEAR: both; PADDING-TOP: 20px
+}

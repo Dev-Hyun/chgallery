@@ -1,0 +1,123 @@
+DIV.content {
+	WIDTH: 550px; DISPLAY: none; FLOAT: right
+}
+DIV.content A {
+	COLOR: #777; TEXT-DECORATION: none
+}
+DIV.navigation A {
+	COLOR: #777; TEXT-DECORATION: none
+}
+DIV.content A:focus {
+	TEXT-DECORATION: underline
+}
+DIV.content A:hover {
+	TEXT-DECORATION: underline
+}
+DIV.content A:active {
+	TEXT-DECORATION: underline
+}
+DIV.controls {
+	MARGIN-TOP: 5px; HEIGHT: 23px
+}
+DIV.controls A {
+	PADDING-BOTTOM: 5px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; PADDING-TOP: 5px
+}
+DIV.ss-controls {
+	FLOAT: left
+}
+DIV.nav-controls {
+	FLOAT: right
+}
+DIV.slideshow-container {
+	POSITION: relative; HEIGHT: 502px; CLEAR: both
+}
+DIV.loader {
+	BACKGROUND-IMAGE: url(loader.gif); POSITION: absolute; WIDTH: 550px; BACKGROUND-REPEAT: no-repeat; BACKGROUND-POSITION: center 50%; HEIGHT: 502px; TOP: 0px; LEFT: 0px
+}
+DIV.slideshow {
+	
+}
+DIV.slideshow SPAN.image-wrapper {
+	POSITION: absolute; DISPLAY: block; TOP: 0px; LEFT: 0px
+}
+DIV.slideshow A.advance-link {
+	TEXT-ALIGN: center; LINE-HEIGHT: 502px; WIDTH: 550px; DISPLAY: block; HEIGHT: 502px
+}
+DIV.slideshow A.advance-link:hover {
+	TEXT-DECORATION: none
+}
+DIV.slideshow A.advance-link:active {
+	TEXT-DECORATION: none
+}
+DIV.slideshow A.advance-link:visited {
+	TEXT-DECORATION: none
+}
+DIV.slideshow IMG {
+	BORDER-BOTTOM: #ccc 1px solid; BORDER-LEFT: #ccc 1px solid; VERTICAL-ALIGN: middle; BORDER-TOP: #ccc 1px solid; BORDER-RIGHT: #ccc 1px solid
+}
+DIV.download {
+	FLOAT: right
+}
+DIV.caption-container {
+	POSITION: relative; HEIGHT: 75px; CLEAR: left
+}
+SPAN.image-caption {
+	POSITION: absolute; WIDTH: 550px; DISPLAY: block; TOP: 0px; LEFT: 0px
+}
+DIV.caption {
+	PADDING-BOTTOM: 12px; PADDING-LEFT: 12px; PADDING-RIGHT: 12px; PADDING-TOP: 12px
+}
+DIV.image-title {
+	FONT-SIZE: 1.4em; FONT-WEIGHT: bold
+}
+DIV.image-desc {
+	LINE-HEIGHT: 1.3em; PADDING-TOP: 12px
+}
+DIV.navigation {
+	
+}
+UL.thumbs {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; CLEAR: both; PADDING-TOP: 0px
+}
+UL.thumbs LI {
+	PADDING-BOTTOM: 0px; LIST-STYLE-TYPE: none; MARGIN: 5px 10px 5px 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FLOAT: left; PADDING-TOP: 0px
+}
+A.thumb {
+	BORDER-BOTTOM: #ccc 1px solid; BORDER-LEFT: #ccc 1px solid; PADDING-BOTTOM: 2px; PADDING-LEFT: 2px; PADDING-RIGHT: 2px; DISPLAY: block; BORDER-TOP: #ccc 1px solid; BORDER-RIGHT: #ccc 1px solid; PADDING-TOP: 2px
+}
+UL.thumbs LI.selected A.thumb {
+	BACKGROUND: #000
+}
+A.thumb:focus {
+	OUTLINE-STYLE: none; OUTLINE-COLOR: invert; OUTLINE-WIDTH: medium
+}
+UL.thumbs IMG {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; DISPLAY: block; BORDER-TOP: medium none; BORDER-RIGHT: medium none
+}
+DIV.pagination {
+	CLEAR: both
+}
+DIV.navigation DIV.top {
+	MARGIN-BOTTOM: 12px; HEIGHT: 11px
+}
+DIV.navigation DIV.bottom {
+	MARGIN-TOP: 12px
+}
+DIV.pagination A {
+	BORDER-BOTTOM: #ccc 1px solid; BORDER-LEFT: #ccc 1px solid; PADDING-BOTTOM: 2px; PADDING-LEFT: 7px; PADDING-RIGHT: 7px; DISPLAY: block; FLOAT: left; BORDER-TOP: #ccc 1px solid; MARGIN-RIGHT: 2px; BORDER-RIGHT: #ccc 1px solid; PADDING-TOP: 4px
+}
+DIV.pagination SPAN.current {
+	BORDER-BOTTOM: #ccc 1px solid; BORDER-LEFT: #ccc 1px solid; PADDING-BOTTOM: 2px; PADDING-LEFT: 7px; PADDING-RIGHT: 7px; DISPLAY: block; FLOAT: left; BORDER-TOP: #ccc 1px solid; MARGIN-RIGHT: 2px; BORDER-RIGHT: #ccc 1px solid; PADDING-TOP: 4px
+}
+DIV.pagination SPAN.ellipsis {
+	BORDER-BOTTOM: #ccc 1px solid; BORDER-LEFT: #ccc 1px solid; PADDING-BOTTOM: 2px; PADDING-LEFT: 7px; PADDING-RIGHT: 7px; DISPLAY: block; FLOAT: left; BORDER-TOP: #ccc 1px solid; MARGIN-RIGHT: 2px; BORDER-RIGHT: #ccc 1px solid; PADDING-TOP: 4px
+}
+DIV.pagination A:hover {
+	BACKGROUND-COLOR: #eee; TEXT-DECORATION: none
+}
+DIV.pagination SPAN.current {
+	BORDER-BOTTOM-COLOR: #000; BACKGROUND-COLOR: #000; BORDER-TOP-COLOR: #000; COLOR: #fff; BORDER-RIGHT-COLOR: #000; BORDER-LEFT-COLOR: #000; FONT-WEIGHT: bold
+}
+DIV.pagination SPAN.ellipsis {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 3px; PADDING-LEFT: 2px; PADDING-RIGHT: 0px; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 5px
+}
